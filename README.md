@@ -1,2 +1,2 @@
 # demo-repo
-Demo repo for learning Git.
+Demo repo for learning Git!
